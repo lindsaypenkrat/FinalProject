@@ -219,3 +219,15 @@ importing a project into the new data format for DLC 2.0
 - July 2018: Ed Yong covered DeepLabCut and interviewed several users for the [Atlantic](https://www.theatlantic.com/science/archive/2018/07/deeplabcut-tracking-animal-movements/564338).
 - April 2018: first DeepLabCut preprint on [arXiv.org](https://arxiv.org/abs/1804.03142)
 # FinalProject
+
+1. Runnable Scripts and Commands:
+   - ReducingRuntimeWithDynamicCroppingAndFilterData(McCoy).ipynb
+   - (lindsay put your file here)
+   - (ashkan put your file here)
+
+
+2. Contributions:
+   -  Matthew McCoy was resonsible for the completion of the Final Presentation Slides and Final Report.  He is also responsible for the Notebook called "ReducingRuntimeWithDynamicCroppingAndFilterData(McCoy).ipynb" which attempted to decrease the running time of the analyzation of the input video, and applied a tracking points filter and a skeleton filter.  The filter results can be seen by running the notebook and accessing the file "/content/cloned-DLC-repo/examples/openfield-Pranav-2018-10-30/videos/m3v1mp4DLC_resnet50_openfieldOct30shuffle1_1000_labeled.mp4" or by reading the Final Report and viewing the associated pictures.
+   -  Lindsay Penkrat (just say what you did)
+   -  Ashkan Moghaddassi (just say what you did)
+
