@@ -6,7 +6,7 @@ from matplotlib import cm
 from matplotlib import colors
 from matplotlib.colors import hsv_to_rgb
 
-rat = cv2.imread('/Users/Ashkan/Desktop/rat.png')
+rat = cv2.imread('rat.png')
 rat = cv2.cvtColor(rat, cv2.COLOR_BGR2RGB)
 hsv_rat = cv2.cvtColor(rat, cv2.COLOR_RGB2HSV)
 
