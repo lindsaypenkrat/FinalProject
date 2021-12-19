@@ -11,7 +11,7 @@ from matplotlib.colors import hsv_to_rgb
 flags = [i for i in dir(cv2) if i.startswith('COLOR_')]
 bgr2rgb = flags[48] #flag to convert from bgr to rgb color space
 
-nemo = cv2.imread('/Users/Ashkan/Desktop/nemo0.jpg')
+nemo = cv2.imread('nemo0.jpg')
 nemo = cv2.cvtColor(nemo, cv2.COLOR_BGR2RGB)
 hsv_nemo = cv2.cvtColor(nemo, cv2.COLOR_RGB2HSV)
 
