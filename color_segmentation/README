@@ -1,0 +1,3 @@
+- nemo.py is a script which demonstrates the principles of color segmentation cropping on a striped fish
+- These methods were implemented and adjusted in color_segmentation.py to apply them to the relevant video frames
+- Results can be seen in the pictures included in the folder
