@@ -1,3 +1,17 @@
+# Final Project (McCoy, Moghaddassi, & Penkrat)
+
+1. Runnable Scripts and Commands:
+   - ReducingRuntimeWithDynamicCroppingAndFilterData(McCoy).ipynb
+   - (lindsay put your file here)
+   - color_segmentation.py, nemo.py (Ashkan Moghaddassi)
+
+
+2. Contributions:
+   -  Matthew McCoy was resonsible for the completion of the Final Presentation Slides and Final Report.  He is also responsible for the Notebook called "ReducingRuntimeWithDynamicCroppingAndFilterData(McCoy).ipynb" which attempted to decrease the running time of the analyzation of the input video, and applied a tracking points filter and a skeleton filter.  The filter results can be seen by running the notebook and accessing the file "/content/cloned-DLC-repo/examples/openfield-Pranav-2018-10-30/videos/m3v1mp4DLC_resnet50_openfieldOct30shuffle1_1000_labeled.mp4" or by reading the Final Report and viewing the associated pictures.  He is also responsible for the Final Presentation Powerpoint and the following Final Report sections: Related Work, Methods, Conclusions, References, and his respective Experiments.
+   -  Lindsay Penkrat (just say what you did)
+   -  Ashkan Moghaddassi was responsible for the formulation of the project objectives and the implementation of DeepLabCut on the GPU machine. He wrote Python scripts for color segmentation cropping of the video frames which attempted to improve runtime efficiency and labeling accuracy. Files and results can be found in the folder entitled "color_segmentation."
+
+
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 ![Python package](https://github.com/DeepLabCut/DeepLabCut/workflows/Python%20package/badge.svg)
 [![PyPI version](https://badge.fury.io/py/deeplabcut.svg)](https://badge.fury.io/py/deeplabcut)
@@ -218,16 +232,3 @@ importing a project into the new data format for DLC 2.0
 - August 2018: NVIDIA AI Developer News: [AI Enables Markerless Animal Tracking](https://news.developer.nvidia.com/ai-enables-markerless-animal-tracking/)
 - July 2018: Ed Yong covered DeepLabCut and interviewed several users for the [Atlantic](https://www.theatlantic.com/science/archive/2018/07/deeplabcut-tracking-animal-movements/564338).
 - April 2018: first DeepLabCut preprint on [arXiv.org](https://arxiv.org/abs/1804.03142)
-# Final Project (McCoy, Moghaddassi, & Penkrat)
-
-1. Runnable Scripts and Commands:
-   - ReducingRuntimeWithDynamicCroppingAndFilterData(McCoy).ipynb
-   - (lindsay put your file here)
-   - color_segmentation.py, nemo.py (Ashkan Moghaddassi)
-
-
-2. Contributions:
-   -  Matthew McCoy was resonsible for the completion of the Final Presentation Slides and Final Report.  He is also responsible for the Notebook called "ReducingRuntimeWithDynamicCroppingAndFilterData(McCoy).ipynb" which attempted to decrease the running time of the analyzation of the input video, and applied a tracking points filter and a skeleton filter.  The filter results can be seen by running the notebook and accessing the file "/content/cloned-DLC-repo/examples/openfield-Pranav-2018-10-30/videos/m3v1mp4DLC_resnet50_openfieldOct30shuffle1_1000_labeled.mp4" or by reading the Final Report and viewing the associated pictures.  He is also responsible for the Final Presentation Powerpoint and the following Final Report sections: Related Work, Methods, Conclusions, References, and his respective Experiments.
-   -  Lindsay Penkrat (just say what you did)
-   -  Ashkan Moghaddassi was responsible for the formulation of the project objectives and the implementation of DeepLabCut on the GPU machine. He wrote Python scripts for color segmentation cropping of the video frames which attempted to improve runtime efficiency and labeling accuracy. Files and results can be found in the folder entitled "color_segmentation."
-
