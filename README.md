@@ -223,7 +223,7 @@ importing a project into the new data format for DLC 2.0
 1. Runnable Scripts and Commands:
    - ReducingRuntimeWithDynamicCroppingAndFilterData(McCoy).ipynb
    - (lindsay put your file here)
-   - color_segmentation.py, nemo.py
+   - color_segmentation.py, nemo.py (Ashkan Moghaddassi)
 
 
 2. Contributions:
