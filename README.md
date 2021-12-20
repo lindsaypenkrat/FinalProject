@@ -11,7 +11,7 @@
    -  Lindsay Penkrat (just say what you did)
    -  Ashkan Moghaddassi was responsible for the formulation of the project objectives and the implementation of DeepLabCut on the GPU machine. He wrote Python scripts for color segmentation cropping of the video frames which attempted to improve runtime efficiency and labeling accuracy. Files and results can be found in the folder entitled "color_segmentation."
 
-
+# DeepLabCut README:
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
 ![Python package](https://github.com/DeepLabCut/DeepLabCut/workflows/Python%20package/badge.svg)
 [![PyPI version](https://badge.fury.io/py/deeplabcut.svg)](https://badge.fury.io/py/deeplabcut)
